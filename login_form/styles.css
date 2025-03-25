@@ -1,0 +1,87 @@
+
+body {
+    background-color: red;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.login-container {
+    background-color:red;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin: 50px auto;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Button styles */
+.mode-btn {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#tu {
+    width: 98%;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    background: #28a745;
+    color: white;
+}
+.red-mode .login-container {
+    background: #e34f4f;
+}
+.orange-mode .login-container {
+    background: #f2b155;
+    color: #fff;
+}
+
+.pink-mode .login-container {
+    background: #e997dc;
+}
+
+.red-mode{
+    background-color: #f39f9f;
+    color: #fff;
+}
+.orange-mode{
+    background-color: #e9c898;
+    color: #fff;
+}
+.pink-mode{
+    background-color: #facef3;
+    color: #fff;
+}
+
+.red-btn {
+    background: #e70808;
+    color:#fff;
+}
+
+.orange-btn {
+    background: rgb(214, 146, 9);
+    color: white;
+}
+
+.pink-btn{
+    background: #d612cc;
+    color: white;
+}
+
