@@ -1,7 +1,7 @@
 # Color_Mode_Switcher
 # Login Form with Theme Change
 
-This is a simple login form built with HTML, CSS, and JavaScript.
+This is a simple login form built with HTML, CSS, and JavaScript..
 [live preview]()
 
 
@@ -12,7 +12,6 @@ This is a simple login form built with HTML, CSS, and JavaScript.
   - Orange
   - Red
   - Pink
-- **Responsive**: The form adjusts for different screen sizes.
 
 ## Technologies Used
 
