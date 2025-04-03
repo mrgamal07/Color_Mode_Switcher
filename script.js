@@ -21,6 +21,6 @@ function setMode(mode) {
 
 // Load saved mode on page refresh
 window.onload = function() {
-    const savedMode = localStorage.getItem("mode") || "red";
+    const savedMode = localStorage.getItem("mode") || "none";
     setMode(savedMode);
 }
